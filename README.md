@@ -43,11 +43,6 @@ This is a **responsive personal portfolio website** created using HTML and CSS. 
 git clone https://github.com/Kaur7611/Portfolio-Sample.git
 
 2. Open `index.html` in your browser or customize sections like About, Projects, etc.
-   
----
-## 🏆 Certification
-
-This project is part of my [freeCodeCamp Responsive Web Design Certification](https://www.freecodecamp.org/certification/fcc78083679-89c1-4c40-af05-979b533adab0/responsive-web-design).
 
 ---
 
